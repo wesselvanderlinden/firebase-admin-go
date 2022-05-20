@@ -20,7 +20,7 @@ import (
 	"errors"
 
 	"cloud.google.com/go/storage"
-	"firebase.google.com/go/v4/internal"
+	"github.com/wesselvanderlinden/firebase-admin-go/internal"
 )
 
 // Client is the interface for the Firebase Storage service.

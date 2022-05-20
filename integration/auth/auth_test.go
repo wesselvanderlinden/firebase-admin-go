@@ -32,10 +32,10 @@ import (
 	"testing"
 	"time"
 
-	firebase "firebase.google.com/go/v4"
-	"firebase.google.com/go/v4/auth"
-	"firebase.google.com/go/v4/auth/hash"
-	"firebase.google.com/go/v4/integration/internal"
+	firebase "github.com/wesselvanderlinden/firebase-admin-go"
+	"github.com/wesselvanderlinden/firebase-admin-go/auth"
+	"github.com/wesselvanderlinden/firebase-admin-go/auth/hash"
+	"github.com/wesselvanderlinden/firebase-admin-go/integration/internal"
 	"golang.org/x/oauth2/google"
 	"google.golang.org/api/option"
 )

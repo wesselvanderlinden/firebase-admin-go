@@ -28,7 +28,7 @@ import (
 	"net/http"
 	"net/textproto"
 
-	"firebase.google.com/go/v4/internal"
+	"github.com/wesselvanderlinden/firebase-admin-go/internal"
 )
 
 const maxMessages = 500

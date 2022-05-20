@@ -21,7 +21,7 @@ import (
 	"net/http"
 	"strings"
 
-	"firebase.google.com/go/v4/internal"
+	"github.com/wesselvanderlinden/firebase-admin-go/internal"
 )
 
 // txnRetires is the maximum number of times a transaction is retried before giving up. Transaction

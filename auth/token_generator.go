@@ -30,7 +30,7 @@ import (
 	"strings"
 	"sync"
 
-	"firebase.google.com/go/v4/internal"
+	"github.com/wesselvanderlinden/firebase-admin-go/internal"
 )
 
 const (

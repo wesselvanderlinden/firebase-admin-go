@@ -1,4 +1,4 @@
-module firebase.google.com/go/v4
+module github.com/wesselvanderlinden/firebase-admin-go
 
 go 1.15
 

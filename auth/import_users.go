@@ -20,7 +20,7 @@ import (
 	"errors"
 	"fmt"
 
-	"firebase.google.com/go/v4/internal"
+	"github.com/wesselvanderlinden/firebase-admin-go/internal"
 )
 
 const maxImportUsers = 1000
